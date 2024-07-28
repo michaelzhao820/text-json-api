@@ -116,8 +116,4 @@ Here’s an example of how the API processes input:
 }
 ```
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 
